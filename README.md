@@ -7,4 +7,4 @@
 -click on "add read me" while creating a new repo
 4.	Commit and push to the fork
 -use git commit command
-5.	Open pull request to this repo
+its the final breakdown
